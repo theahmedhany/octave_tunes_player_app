@@ -27,7 +27,7 @@ Whether you're a beginner exploring the basics of music or an experienced musici
 #### To see Octave in action, check out the video below:
 https://github.com/user-attachments/assets/8c361f5b-b51e-4582-b56f-890d0765baf5
 
-#### Explore the application post on LinkedIn: <a target="_blank" href="************************"> Click Here. </a>
+#### Explore the application post on LinkedIn: <a target="_blank" href="https://www.linkedin.com/posts/theahmedhany_dart-flutter-octave-activity-7229399531971325953-r1SO?utm_source=share&utm_medium=member_desktop"> Click Here. </a>
 
 
 -----
