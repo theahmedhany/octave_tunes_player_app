@@ -1,4 +1,4 @@
-# Octave: Tunes Player App.
+# Octave: Tunes Player App
 A new Flutter Application.
 
 
@@ -6,21 +6,18 @@ A new Flutter Application.
 
 
 ## Description
-Octave: Tunes Player App is a virtual xylophone, offering users an interactive and engaging way to explore musical notes. The app features an intuitive interface with interactive buttons, each representing a distinct musical note. By tapping these buttons, users can hear different notes in real-time, providing an educational tool that’s both fun and practical.
+**Octave: Tunes Player App** is a virtual xylophone, offering users an interactive and engaging way to explore musical notes. The app features an intuitive interface with interactive buttons, each representing a distinct musical note. By tapping these buttons, users can hear different notes in real-time, providing an educational tool that’s both fun and practical.
 
 
 ## Key Features
-- Interactive Buttons: Each button corresponds to a specific musical note.
-
-- Real-Time Sound: Tapping a button produces an immediate sound, allowing users to experience the note in real-time.
-
-- Educational Tool: Ideal for music students and enthusiasts to learn and practice musical notes.
-
-- User-Friendly Interface: Designed for a smooth and intuitive user experience.
+- **Interactive Buttons:** Each button corresponds to a specific musical note.
+- **Real-Time Sound:** Tapping a button produces an immediate sound, allowing users to experience the note in real-time.
+- **Educational Tool:** Ideal for music students and enthusiasts to learn and practice musical notes.
+- **User-Friendly Interface:** Designed for a smooth and intuitive user experience.
 
 
 ## About
-Whether you're a beginner exploring the basics of music or an experienced musician seeking a practical tool to practice your skills, Octave: Tunes Player App offers a fun and effective way to enhance your musical journey. The app is perfect for anyone looking to combine their love for music with learning in an interactive environment.
+Whether you're a beginner exploring the basics of music or an experienced musician seeking a practical tool to practice your skills, **Octave: Tunes Player App** offers a fun and effective way to enhance your musical journey. The app is perfect for anyone looking to combine their love for music with learning in an interactive environment.
 
 
 ## Demo and Resources
